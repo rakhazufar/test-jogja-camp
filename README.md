@@ -18,7 +18,7 @@
 4. Jalankan perintah `yarn start`
 5. Happy Hacking
 
-## List Endpoint
+## List Route
 
 | Route                    | Isi                                             |
 | ------------------------ | ------------------------------------------------------ |
