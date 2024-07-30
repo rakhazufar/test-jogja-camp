@@ -15,7 +15,7 @@
 1. Clone repository ini dengan menggunakan perintah `git clone https://github.com/rakhazufar/test-jogja-camp.git` pada terminal / command line.
 2. Pastikan folder project sudah aktif pada terminal / command line.
 3. Jalankan perintah `npm install`
-4. Jalankan perintah `yarn start`
+4. Jalankan perintah `npm start`
 5. Happy Hacking
 
 ## List Route
