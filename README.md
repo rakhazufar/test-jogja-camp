@@ -9,5 +9,3 @@
 - Prettier - Code formatter
 - ES7+ React/Redux/React-Native snippets
 - Tailwind CSS IntelliSense
-
-## Cara Menjalankan
